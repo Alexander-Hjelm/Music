@@ -16,3 +16,10 @@ Folk
 ----
 
   * **Jon Middleton** - Strathcona, [Link](https://jonmiddleton.bandcamp.com/album/strathcona)
+
+Chiptune
+--------
+
+  * **Toby Fox** - UNDERTALE Soundtrack, [Link](https://tobyfox.bandcamp.com/album/undertale-soundtrack)
+  * **Lena Raine** - Celeste - Madeline's Grab Bag, [Link](https://radicaldreamland.bandcamp.com/album/celeste-madelines-grab-bag)
+
