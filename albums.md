@@ -22,4 +22,8 @@ Chiptune
 
   * **Toby Fox** - UNDERTALE Soundtrack, [Link](https://tobyfox.bandcamp.com/album/undertale-soundtrack)
   * **Lena Raine** - Celeste - Madeline's Grab Bag, [Link](https://radicaldreamland.bandcamp.com/album/celeste-madelines-grab-bag)
+  
+Jazz
+----
 
+  * **Jenova 7** - Dusted Jazz Volume One, [Link](http://jenova7.com/album/dusted-jazz-volume-one)
