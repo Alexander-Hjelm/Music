@@ -10,6 +10,12 @@ Chillout
 --------
   * **Various Artists** - Beasts of Balance: RMX KIT, [Link](http://music.disasterpeace.com/album/beasts-of-balance-rmx-kit)
 
+Chiptune
+--------
+
+  * **Toby Fox** - UNDERTALE Soundtrack, [Link](https://tobyfox.bandcamp.com/album/undertale-soundtrack)
+  * **Lena Raine** - Celeste - Madeline's Grab Bag, [Link](https://radicaldreamland.bandcamp.com/album/celeste-madelines-grab-bag)
+
 Experimental Electronic
 -----------------------
 
@@ -21,14 +27,7 @@ Folk
 
   * **Jon Middleton** - Strathcona, [Link](https://jonmiddleton.bandcamp.com/album/strathcona)
 
-Chiptune
---------
-
-  * **Toby Fox** - UNDERTALE Soundtrack, [Link](https://tobyfox.bandcamp.com/album/undertale-soundtrack)
-  * **Lena Raine** - Celeste - Madeline's Grab Bag, [Link](https://radicaldreamland.bandcamp.com/album/celeste-madelines-grab-bag)
-
 Hard Rock
 ---------
 
  * **Heat** - Night Trouble, [Link](https://heatbandofficial.bandcamp.com/album/night-trouble)
-
