@@ -6,6 +6,10 @@ Ambient
 
   * **Max Corbacho** - Vestiges, [Link](https://maxcorbacho.bandcamp.com/album/vestiges)
 
+Chillout
+--------
+  * **Various Artists** - Beasts of Balance: RMX KIT, [Link](http://music.disasterpeace.com/album/beasts-of-balance-rmx-kit)
+
 Experimental Electronic
 -----------------------
 
