@@ -8,6 +8,7 @@ Ambient
 
 Chillout
 --------
+
   * **Various Artists** - Beasts of Balance: RMX KIT, [Link](http://music.disasterpeace.com/album/beasts-of-balance-rmx-kit)
 
 Chiptune
@@ -31,3 +32,9 @@ Hard Rock
 ---------
 
  * **Heat** - Night Trouble, [Link](https://heatbandofficial.bandcamp.com/album/night-trouble)
+
+Jazz
+----
+
+  * **Jenova 7** - Dusted Jazz Volume One, [Link](http://jenova7.com/album/dusted-jazz-volume-one)
+
