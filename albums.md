@@ -10,6 +10,7 @@ Chillout
 --------
 
   * **Various Artists** - Beasts of Balance: RMX KIT, [Link](http://music.disasterpeace.com/album/beasts-of-balance-rmx-kit)
+  * **Wizard of Loneliness** - Strays, [Link](https://halcyontapes.bandcamp.com/album/strays)
 
 Chiptune
 --------
