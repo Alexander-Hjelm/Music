@@ -18,6 +18,12 @@ Chiptune
   * **Toby Fox** - UNDERTALE Soundtrack, [Link](https://tobyfox.bandcamp.com/album/undertale-soundtrack)
   * **Lena Raine** - Celeste - Madeline's Grab Bag, [Link](https://radicaldreamland.bandcamp.com/album/celeste-madelines-grab-bag)
 
+Electronic
+----------
+
+  * **Alfa Matrix** - Matrix Downloaded 007, [Link](https://alfamatrix.bandcamp.com/album/matrix-downloaded-007)
+  * **Darren Korb** - Bastion: Original Soundtrack, [Link](https://supergiantgames.bandcamp.com/album/bastion-original-soundtrack)
+
 Experimental Electronic
 -----------------------
 
