@@ -53,6 +53,11 @@ Jazz
 
   * **Jenova 7** - Dusted Jazz Volume One, [Link](http://jenova7.com/album/dusted-jazz-volume-one)
 
+Psychedelic
+-----------
+
+  * **The Sonic Dawn** - Perception, [Link](https://thesonicdawn.bandcamp.com/album/perception)
+
 World
 -----
 
