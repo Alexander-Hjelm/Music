@@ -51,6 +51,7 @@ Folk
 
   * **Jon Middleton** - Strathcona, [Link](https://jonmiddleton.bandcamp.com/album/strathcona)
   * **Louie Zong**, Acoustic, [Link](https://louiezong.bandcamp.com/album/acoustic)
+  * **The Dead South**, Good Company, [Link](https://thedeadsouth.bandcamp.com/album/good-company)
 
 Hard Rock
 ---------
