@@ -75,6 +75,16 @@ Psychedelic
 
   * **The Sonic Dawn** - Perception, [Link](https://thesonicdawn.bandcamp.com/album/perception)
 
+
+Rock and Roll
+-------------
+
+  * **Peter and the Wolves** - Howlin' and Prowlin', [Link](https://peterandthewolvesband.bandcamp.com/album/howlin-and-prowlin)
+
+Viking
+------
+  * **Wardruna** - Runaljod - Ragnarok, [Link](https://wardruna.bandcamp.com/album/runaljod-ragnarok)
+
 World
 -----
 
