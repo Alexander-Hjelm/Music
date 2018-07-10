@@ -13,12 +13,6 @@ Chillout
   * **Wizard of Loneliness** - Strays, [Link](https://halcyontapes.bandcamp.com/album/strays)
   * **Jeremy Warmsley** - Jalopy Official Soundtrack, [Link](https://jeremywarmsley.bandcamp.com/album/jalopy-official-soundtrack)
 
-Chiptune
---------
-
-  * **Toby Fox** - UNDERTALE Soundtrack, [Link](https://tobyfox.bandcamp.com/album/undertale-soundtrack)
-  * **Lena Raine** - Celeste - Madeline's Grab Bag, [Link](https://radicaldreamland.bandcamp.com/album/celeste-madelines-grab-bag)
-
 Dark Ambient
 ------------
 
@@ -80,6 +74,14 @@ Rock and Roll
 -------------
 
   * **Peter and the Wolves** - Howlin' and Prowlin', [Link](https://peterandthewolvesband.bandcamp.com/album/howlin-and-prowlin)
+
+Video Game
+----------
+
+  * **Toby Fox** - UNDERTALE Soundtrack, [Link](https://tobyfox.bandcamp.com/album/undertale-soundtrack)
+  * **Lena Raine** - Celeste - Madeline's Grab Bag, [Link](https://radicaldreamland.bandcamp.com/album/celeste-madelines-grab-bag)
+  * **Super Marcato Bros.** - Hello World: Journey to Dino Island, [Link](https://supermarcatobros.bandcamp.com/album/hello-world-journey-to-dino-island)
+  * **Zencha** - At the End of Days, [Link](https://zencha.bandcamp.com/album/at-the-end-of-days-2)
 
 Viking
 ------
