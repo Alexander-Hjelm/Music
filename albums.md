@@ -36,7 +36,11 @@ Fantasy
 -------
 
   * **Arathgoth** - Guardians of the Fall - [Link](https://arathgoth.bandcamp.com/album/guardians-of-the-fall)
+  * **Austin Wintory** - The Banner Saga, [Link](https://austinwintory.bandcamp.com/album/the-banner-saga)
+  * **Austin Wintory** - Journey, [Link](https://austinwintory.bandcamp.com/album/journey)
   * **Erang** - Within The Land Of My Imagination I Am The Only God . [Link](https://erang.bandcamp.com/album/within-the-land-of-my-imagination-i-am-the-only-god)
+  * **Fredrik Jonasson** - Skywind OST, [Link](https://jonassonfredrik.bandcamp.com/album/skywind-ost-fredrik-jonasson)
+  * **Jeremy Soule** - The Northerner Diaries Symphonic Sketches , [Link](https://jeremysoule.bandcamp.com/album/the-northerner-diaries-symphonic-sketches)
   * **Theophany** - Time's End: Majora's Mask Remixed, [Link](https://theophany-rmx.bandcamp.com/album/times-end-majoras-mask-remixed)
   * **Theophany** - Time's End II: Majora's Mask Remixed, [Link](https://theophany-rmx.bandcamp.com/album/times-end-ii-majoras-mask-remixed)
 
@@ -63,12 +67,12 @@ Oriental
 
   * **Osamu Kitajima** - Benzaiten, [Link](https://merlinsnoserecords.bandcamp.com/album/benzaiten)
   * **Osamu Kitajima** - Masterless Samurai, [Link](https://merlinsnoserecords.bandcamp.com/album/masterless-samurai)
+  * **Zencha** - Shinshu In Bloom , [Link](https://zencha.bandcamp.com/album/shinshu-in-bloom)
 
 Psychedelic
 -----------
 
   * **The Sonic Dawn** - Perception, [Link](https://thesonicdawn.bandcamp.com/album/perception)
-
 
 Rock and Roll
 -------------
