@@ -89,6 +89,7 @@ Video Game
 
 Viking
 ------
+  * **Danheim** - Herja, [Link](https://danheim.bandcamp.com/album/herja)
   * **Wardruna** - Runaljod - Ragnarok, [Link](https://wardruna.bandcamp.com/album/runaljod-ragnarok)
 
 World
