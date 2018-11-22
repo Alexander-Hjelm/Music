@@ -5,6 +5,7 @@ Ambient
 -------
 
   * **Max Corbacho** - Vestiges, [Link](https://maxcorbacho.bandcamp.com/album/vestiges)
+  * **Midori Takada** - Through the Looking Glass, [Link](https://wrwtfww.com/album/through-the-looking-glass), [Youtube link](https://www.youtube.com/watch?v=eGjHJOnmDZA)
 
 Chillout
 --------
@@ -24,6 +25,7 @@ Electronic
 
   * **Alfa Matrix** - Matrix Downloaded 007, [Link](https://alfamatrix.bandcamp.com/album/matrix-downloaded-007)
   * **Darren Korb** - Bastion: Original Soundtrack, [Link](https://supergiantgames.bandcamp.com/album/bastion-original-soundtrack)
+  * **Pogo** - Weightless, [Link](https://pogomix.bandcamp.com/album/weightless)
   * **TheFatRat** - Time Lapse, [link](https://thefatrat.bandcamp.com/track/time-lapse)
 
 Experimental Electronic
@@ -55,6 +57,11 @@ Hard Rock
 ---------
 
  * **Heat** - Night Trouble, [Link](https://heatbandofficial.bandcamp.com/album/night-trouble)
+
+Indie Rock
+----------
+
+* **Red Vox** - What Could Go Wrong, [Link](https://vine.bandcamp.com/album/what-could-go-wrong)
 
 Jazz
 ----
