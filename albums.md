@@ -23,10 +23,12 @@ Dark Ambient
 Electronic
 ----------
 
+  * **Alfa Matrix** - Anathema EP, [Link](https://alfamatrix.bandcamp.com/album/anathema-ep)
   * **Alfa Matrix** - Matrix Downloaded 007, [Link](https://alfamatrix.bandcamp.com/album/matrix-downloaded-007)
   * **Darren Korb** - Bastion: Original Soundtrack, [Link](https://supergiantgames.bandcamp.com/album/bastion-original-soundtrack)
   * **Pogo** - Weightless, [Link](https://pogomix.bandcamp.com/album/weightless)
   * **TheFatRat** - Time Lapse, [link](https://thefatrat.bandcamp.com/track/time-lapse)
+  * **Vector Lovers** - Road / To Ruin, [Link](https://vectorlovers.bandcamp.com/album/road-to-ruin)
 
 Experimental Electronic
 -----------------------
@@ -51,6 +53,7 @@ Folk
 
   * **Jon Middleton** - Strathcona, [Link](https://jonmiddleton.bandcamp.com/album/strathcona)
   * **Louie Zong**, Acoustic, [Link](https://louiezong.bandcamp.com/album/acoustic)
+  * **Opus Orange**, opus orange, [Link](https://opusorange.bandcamp.com/album/opus-orange)
   * **The Dead South**, Good Company, [Link](https://thedeadsouth.bandcamp.com/album/good-company)
 
 Hard Rock
@@ -66,6 +69,7 @@ Indie Rock
 Jazz
 ----
 
+  * **Blockhead** - Uncle Tony's Coloring Book, [Link](https://blockheadnyc.bandcamp.com/album/uncle-tonys-coloring-book-2)
   * **Jenova 7** - Dusted Jazz Volume One, [Link](http://jenova7.com/album/dusted-jazz-volume-one)
   * **Jack O' The Clock** - Repetitions of the Old City, [Link](https://jackotheclock.bandcamp.com/album/repetitions-of-the-old-city-ii)
 
@@ -85,6 +89,11 @@ Rock and Roll
 -------------
 
   * **Peter and the Wolves** - Howlin' and Prowlin', [Link](https://peterandthewolvesband.bandcamp.com/album/howlin-and-prowlin)
+
+Synthwave
+---------
+
+  * **Das Mörtal** - Hotline Miami II EP, [Link](https://dasmortal.bandcamp.com/album/hotline-miami-ii-ep)
 
 Video Game
 ----------
