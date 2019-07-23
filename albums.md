@@ -1,6 +1,13 @@
 Bandcamp albums that I like
 ===========================
 
+Check dis out:
+--------------
+https://toroymoi.bandcamp.com/album/underneath-the-pine
+https://ishq.bandcamp.com/
+https://voxhaulbroadcast.bandcamp.com/
+https://solarfields.bandcamp.com/album/origin-03
+
 Ambient	
 -------
 
@@ -29,6 +36,7 @@ Electronic
   * **Pogo** - Weightless, [Link](https://pogomix.bandcamp.com/album/weightless)
   * **TheFatRat** - Time Lapse, [link](https://thefatrat.bandcamp.com/track/time-lapse)
   * **Vector Lovers** - Road / To Ruin, [Link](https://vectorlovers.bandcamp.com/album/road-to-ruin)
+  * **Rameses B** - Freedom, [Link](https://ramesesb.bandcamp.com/album/freedom)
 
 Experimental Electronic
 -----------------------
