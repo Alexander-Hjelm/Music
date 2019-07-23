@@ -1,13 +1,6 @@
 Bandcamp albums that I like
 ===========================
 
-Check dis out:
---------------
-https://toroymoi.bandcamp.com/album/underneath-the-pine
-https://ishq.bandcamp.com/
-https://voxhaulbroadcast.bandcamp.com/
-https://solarfields.bandcamp.com/album/origin-03
-
 Ambient	
 -------
 
