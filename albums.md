@@ -98,6 +98,7 @@ Synthwave
 ---------
 
   * **Das Mörtal** - Hotline Miami II EP, [Link](https://dasmortal.bandcamp.com/album/hotline-miami-ii-ep)
+  * **M.O.O.N.** - Particles EP, [Link](https://music.musicofthemoon.com/album/particles-ep)
 
 Video Game
 ----------
