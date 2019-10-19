@@ -104,6 +104,7 @@ Video Game
 ----------
 
   * **ConcernedApe** - Stardew Valley OST, [Link](https://concernedape.bandcamp.com/album/stardew-valley-ost)
+  * **Gareth Coker** - Ori and the Blind Forest (Additional Soundtrack), [Link](https://garethcoker.bandcamp.com/album/ori-and-the-blind-forest-additional-soundtrack)
   * **Toby Fox** - UNDERTALE Soundtrack, [Link](https://tobyfox.bandcamp.com/album/undertale-soundtrack)
   * **Lena Raine** - Celeste - Madeline's Grab Bag, [Link](https://radicaldreamland.bandcamp.com/album/celeste-madelines-grab-bag)
   * **Super Marcato Bros.** - Hello World: Journey to Dino Island, [Link](https://supermarcatobros.bandcamp.com/album/hello-world-journey-to-dino-island)
