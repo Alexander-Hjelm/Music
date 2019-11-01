@@ -7,6 +7,11 @@ Ambient
   * **Max Corbacho** - Vestiges, [Link](https://maxcorbacho.bandcamp.com/album/vestiges)
   * **Midori Takada** - Through the Looking Glass, [Link](https://wrwtfww.com/album/through-the-looking-glass), [Youtube link](https://www.youtube.com/watch?v=eGjHJOnmDZA)
 
+Blues
+-----
+
+  * **Terry S. Taylor** - Return To The Neverhood, [Link](https://danielamosboots.bandcamp.com/album/return-to-the-neverhood)
+
 Chillout
 --------
 
@@ -56,6 +61,7 @@ Folk
   * **Gwenifer Raymond** - You Never Were Much Of A Dancer, [Link](https://tompkinssquare.bandcamp.com/album/you-never-were-much-of-a-dancer)
   * **Jon Middleton** - Strathcona, [Link](https://jonmiddleton.bandcamp.com/album/strathcona)
   * **Louie Zong**, Acoustic, [Link](https://louiezong.bandcamp.com/album/acoustic)
+  * **Nick Wyke & Becki Driscoll**, [Link](https://nickwykeandbeckidriscoll.bandcamp.com/album/bridge-over-the-river-brit)
   * **Opus Orange**, opus orange, [Link](https://opusorange.bandcamp.com/album/opus-orange)
   * **The Dead South**, Good Company, [Link](https://thedeadsouth.bandcamp.com/album/good-company)
 
@@ -112,6 +118,7 @@ Video Game
 
 Viking
 ------
+
   * **Danheim** - Herja, [Link](https://danheim.bandcamp.com/album/herja)
   * **Wardruna** - Runaljod - Ragnarok, [Link](https://wardruna.bandcamp.com/album/runaljod-ragnarok)
 
