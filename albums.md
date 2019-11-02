@@ -32,6 +32,7 @@ Electronic
   * **Alfa Matrix** - Matrix Downloaded 007, [Link](https://alfamatrix.bandcamp.com/album/matrix-downloaded-007)
   * **Darren Korb** - Bastion: Original Soundtrack, [Link](https://supergiantgames.bandcamp.com/album/bastion-original-soundtrack)
   * **Pogo** - Weightless, [Link](https://pogomix.bandcamp.com/album/weightless)
+  * **Professor Kliq** - Wire and Flashing Lights, [Link](https://professorkliq.bandcamp.com/album/wire-and-flashing-lights)
   * **TheFatRat** - Time Lapse, [link](https://thefatrat.bandcamp.com/track/time-lapse)
   * **Vector Lovers** - Road / To Ruin, [Link](https://vectorlovers.bandcamp.com/album/road-to-ruin)
   * **Rameses B** - Freedom, [Link](https://ramesesb.bandcamp.com/album/freedom)
