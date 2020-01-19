@@ -75,6 +75,7 @@ Hard Rock
 Indie Rock
 ----------
 
+* **Flasher** - Constant Image, [Link](https://flasherdc.bandcamp.com/album/constant-image)
 * **Red Vox** - What Could Go Wrong, [Link](https://vine.bandcamp.com/album/what-could-go-wrong)
 
 Jazz
