@@ -111,6 +111,7 @@ Synthwave
 Video Game
 ----------
 
+  * **Berlinist** - Gris (Original Soundtrack), [Link](https://berlinistband.bandcamp.com/album/gris-original-soundtrack)
   * **ConcernedApe** - Stardew Valley OST, [Link](https://concernedape.bandcamp.com/album/stardew-valley-ost)
   * **Gareth Coker** - Ori and the Blind Forest (Additional Soundtrack), [Link](https://garethcoker.bandcamp.com/album/ori-and-the-blind-forest-additional-soundtrack)
   * **Toby Fox** - UNDERTALE Soundtrack, [Link](https://tobyfox.bandcamp.com/album/undertale-soundtrack)
