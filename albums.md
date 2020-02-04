@@ -95,6 +95,7 @@ Oriental
 Psychedelic
 -----------
 
+  * **SUN ARAW** - Beach Head, [Link](https://sunaraw.bandcamp.com/album/beach-head)
   * **The Sonic Dawn** - Perception, [Link](https://thesonicdawn.bandcamp.com/album/perception)
 
 Rock and Roll
