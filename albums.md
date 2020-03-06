@@ -100,6 +100,11 @@ Psychedelic
   * **SUN ARAW** - Beach Head, [Link](https://sunaraw.bandcamp.com/album/beach-head)
   * **The Sonic Dawn** - Perception, [Link](https://thesonicdawn.bandcamp.com/album/perception)
 
+Reggae
+------
+
+  * **Thievery Corporation** - Radio Retaliation, [Link](https://thieverycorporation.bandcamp.com/album/radio-retaliation)
+
 Rock and Roll
 -------------
 
