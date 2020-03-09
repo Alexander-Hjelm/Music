@@ -43,19 +43,19 @@ Electronic
 Experimental Electronic
 -----------------------
 
-  * **Archie Pelago** - Off​-​Peak OST, [Link](https://archiepelago.bandcamp.com/album/off-peak-ost)
+  * **Archie Pelago** - Off-Peak OST, [Link](https://archiepelago.bandcamp.com/album/off-peak-ost)
   * **Hatis Noit** - Illogical Dance, [Link](https://hatisnoit.bandcamp.com/album/illogical-dance)
 
 Fantasy
 -------
 
-  * **Arathgoth** - Guardians of the Fall - [Link](https://arathgoth.bandcamp.com/album/guardians-of-the-fall)
+  * **Arathgoth** - Guardians of the Fall, [Link](https://arathgoth.bandcamp.com/album/guardians-of-the-fall)
   * **Austin Wintory** - The Banner Saga, [Link](https://austinwintory.bandcamp.com/album/the-banner-saga)
   * **Austin Wintory** - Journey, [Link](https://austinwintory.bandcamp.com/album/journey)
-  * **Erang** - Within The Land Of My Imagination I Am The Only God . [Link](https://erang.bandcamp.com/album/within-the-land-of-my-imagination-i-am-the-only-god)
+  * **Erang** - Within The Land Of My Imagination I Am The Only God, [Link](https://erang.bandcamp.com/album/within-the-land-of-my-imagination-i-am-the-only-god)
   * **Eric Buchholz** - Hero of Time, [Link](https://ericbuchholz.bandcamp.com/album/hero-of-time-music-from-the-legend-of-zelda-ocarina-of-time)
   * **Fredrik Jonasson** - Skywind OST, [Link](https://jonassonfredrik.bandcamp.com/album/skywind-ost-fredrik-jonasson)
-  * **Jeremy Soule** - The Northerner Diaries Symphonic Sketches , [Link](https://jeremysoule.bandcamp.com/album/the-northerner-diaries-symphonic-sketches)
+  * **Jeremy Soule** - The Northerner Diaries Symphonic Sketches, [Link](https://jeremysoule.bandcamp.com/album/the-northerner-diaries-symphonic-sketches)
   * **Theophany** - Time's End: Majora's Mask Remixed, [Link](https://theophany-rmx.bandcamp.com/album/times-end-majoras-mask-remixed)
   * **Theophany** - Time's End II: Majora's Mask Remixed, [Link](https://theophany-rmx.bandcamp.com/album/times-end-ii-majoras-mask-remixed)
 
@@ -64,10 +64,10 @@ Folk
 
   * **Gwenifer Raymond** - You Never Were Much Of A Dancer, [Link](https://tompkinssquare.bandcamp.com/album/you-never-were-much-of-a-dancer)
   * **Jon Middleton** - Strathcona, [Link](https://jonmiddleton.bandcamp.com/album/strathcona)
-  * **Louie Zong**, Acoustic, [Link](https://louiezong.bandcamp.com/album/acoustic)
-  * **Nick Wyke & Becki Driscoll**, [Link](https://nickwykeandbeckidriscoll.bandcamp.com/album/bridge-over-the-river-brit)
-  * **Opus Orange**, opus orange, [Link](https://opusorange.bandcamp.com/album/opus-orange)
-  * **The Dead South**, Good Company, [Link](https://thedeadsouth.bandcamp.com/album/good-company)
+  * **Louie Zong** - Acoustic, [Link](https://louiezong.bandcamp.com/album/acoustic)
+  * **Nick Wyke & Becki Driscoll** - Bridge over the River Brit, [Link](https://nickwykeandbeckidriscoll.bandcamp.com/album/bridge-over-the-river-brit)
+  * **Opus Orange** - opus orange, [Link](https://opusorange.bandcamp.com/album/opus-orange)
+  * **The Dead South** - Good Company, [Link](https://thedeadsouth.bandcamp.com/album/good-company)
 
 
 Hard Rock
@@ -93,7 +93,7 @@ Oriental
 
   * **Osamu Kitajima** - Benzaiten, [Link](https://merlinsnoserecords.bandcamp.com/album/benzaiten)
   * **Osamu Kitajima** - Masterless Samurai, [Link](https://merlinsnoserecords.bandcamp.com/album/masterless-samurai)
-  * **Zencha** - Shinshu In Bloom , [Link](https://zencha.bandcamp.com/album/shinshu-in-bloom)
+  * **Zencha** - Shinshu In Bloom, [Link](https://zencha.bandcamp.com/album/shinshu-in-bloom)
 
 Psychedelic
 -----------
