@@ -88,6 +88,11 @@ Jazz
   * **Jenova 7** - Dusted Jazz Volume One, [Link](http://jenova7.com/album/dusted-jazz-volume-one)
   * **Jack O' The Clock** - Repetitions of the Old City, [Link](https://jackotheclock.bandcamp.com/album/repetitions-of-the-old-city-ii)
 
+Metal
+-----
+
+  * **Wintersun** - The Forest Seasons, [Link](https://wintersun.bandcamp.com/album/the-forest-seasons)
+
 Oriental
 --------
 
