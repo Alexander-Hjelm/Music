@@ -54,6 +54,7 @@ Fantasy
   * **Austin Wintory** - Journey, [Link](https://austinwintory.bandcamp.com/album/journey)
   * **Erang** - Within The Land Of My Imagination I Am The Only God, [Link](https://erang.bandcamp.com/album/within-the-land-of-my-imagination-i-am-the-only-god)
   * **Eric Buchholz** - Hero of Time, [Link](https://ericbuchholz.bandcamp.com/album/hero-of-time-music-from-the-legend-of-zelda-ocarina-of-time)
+  * **Fief** - II, [Link](https://fief.bandcamp.com/album/ii)
   * **Fredrik Jonasson** - Skywind OST, [Link](https://jonassonfredrik.bandcamp.com/album/skywind-ost-fredrik-jonasson)
   * **Jeremy Soule** - The Northerner Diaries Symphonic Sketches, [Link](https://jeremysoule.bandcamp.com/album/the-northerner-diaries-symphonic-sketches)
   * **Theophany** - Time's End: Majora's Mask Remixed, [Link](https://theophany-rmx.bandcamp.com/album/times-end-majoras-mask-remixed)
