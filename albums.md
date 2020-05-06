@@ -37,7 +37,7 @@ Electronic
   * **Darren Korb** - Bastion: Original Soundtrack, [Link](https://supergiantgames.bandcamp.com/album/bastion-original-soundtrack)
   * **Pogo** - Weightless, [Link](https://pogomix.bandcamp.com/album/weightless)
   * **Professor Kliq** - Wire and Flashing Lights, [Link](https://professorkliq.bandcamp.com/album/wire-and-flashing-lights)
-  * **TheFatRat** - Time Lapse, [link](https://thefatrat.bandcamp.com/track/time-lapse)
+  * **TheFatRat** - Time Lapse, [Link](https://thefatrat.bandcamp.com/track/time-lapse)
   * **Vector Lovers** - Road / To Ruin, [Link](https://vectorlovers.bandcamp.com/album/road-to-ruin)
   * **Rameses B** - Freedom, [Link](https://ramesesb.bandcamp.com/album/freedom)
 
@@ -46,6 +46,7 @@ Experimental Electronic
 
   * **Archie Pelago** - Off-Peak OST, [Link](https://archiepelago.bandcamp.com/album/off-peak-ost)
   * **Hatis Noit** - Illogical Dance, [Link](https://hatisnoit.bandcamp.com/album/illogical-dance)
+  * **Islandman** - ISLANDMAN LP, [Link](https://islandman.bandcamp.com/album/islandman-lp)
 
 Fantasy
 -------
