@@ -20,6 +20,7 @@ Chillout
   * **Fonogeri** - Golden Age, [Link](https://fonogeri.bandcamp.com/album/golden-age)
   * **Jeremy Warmsley** - Jalopy Official Soundtrack, [Link](https://jeremywarmsley.bandcamp.com/album/jalopy-official-soundtrack)
   * **Men I Trust** - Oncle Jazz, [Link](https://menitrust.bandcamp.com/album/oncle-jazz)
+  * **uyama hiroto** - freeform jazz, [Lin](https://rophrecordings.bandcamp.com/album/freeform-jazz)
   * **Various Artists** - Beasts of Balance: RMX KIT, [Link](http://music.disasterpeace.com/album/beasts-of-balance-rmx-kit)
   * **Wizard of Loneliness** - Strays, [Link](https://halcyontapes.bandcamp.com/album/strays)
 
