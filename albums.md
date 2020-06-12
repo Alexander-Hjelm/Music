@@ -129,6 +129,7 @@ Rock and Roll
 Synthwave
 ---------
 
+  * **D/A/D** - The Construct, [Link](https://dadmusic.bandcamp.com/)
   * **Das Mörtal** - Hotline Miami II EP, [Link](https://dasmortal.bandcamp.com/album/hotline-miami-ii-ep)
   * **M.O.O.N.** - Particles EP, [Link](https://music.musicofthemoon.com/album/particles-ep)
 
