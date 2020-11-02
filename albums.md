@@ -72,6 +72,7 @@ Folk
   * **Louie Zong** - Acoustic, [Link](https://louiezong.bandcamp.com/album/acoustic)
   * **Nick Wyke & Becki Driscoll** - Bridge over the River Brit, [Link](https://nickwykeandbeckidriscoll.bandcamp.com/album/bridge-over-the-river-brit)
   * **Opus Orange** - opus orange, [Link](https://opusorange.bandcamp.com/album/opus-orange)
+  * **psalters** - The Divine Liturgy of the Wretched Exiles, [Link](https://psalters.bandcamp.com/album/the-divine-liturgy-of-the-wretched-exiles)
   * **The Dead South** - Good Company, [Link](https://thedeadsouth.bandcamp.com/album/good-company)
 
 
@@ -148,6 +149,7 @@ Viking
 ------
 
   * **Danheim** - Herja, [Link](https://danheim.bandcamp.com/album/herja)
+  * **Sowulo** - SOL, [Link](https://sowulo.bandcamp.com/album/sol)
   * **Wardruna** - Runaljod - Ragnarok, [Link](https://wardruna.bandcamp.com/album/runaljod-ragnarok)
 
 World
