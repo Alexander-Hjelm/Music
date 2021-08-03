@@ -17,6 +17,7 @@ Chillout
 --------
 
   * **Baptiste Sejourne & Kama Lila Sol** - Kura Kura, [Link](https://numalove.bandcamp.com/album/kura-kura)
+  * **Bonobo** - Migrations, [Link](https://bonobomusic.bandcamp.com/album/migration)
   * **Fonogeri** - Letters From Home, [Link](https://fonogeri.bandcamp.com/album/letters-from-home)
   * **Fonogeri** - Golden Age, [Link](https://fonogeri.bandcamp.com/album/golden-age)
   * **Jeremy Warmsley** - Jalopy Official Soundtrack, [Link](https://jeremywarmsley.bandcamp.com/album/jalopy-official-soundtrack)
