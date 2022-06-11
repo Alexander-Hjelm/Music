@@ -57,6 +57,7 @@ Fantasy
   * **Arathgoth** - Guardians of the Fall, [Link](https://arathgoth.bandcamp.com/album/guardians-of-the-fall)
   * **Austin Wintory** - The Banner Saga, [Link](https://austinwintory.bandcamp.com/album/the-banner-saga)
   * **Austin Wintory** - Journey, [Link](https://austinwintory.bandcamp.com/album/journey)
+  * **elyvilon** - Drums in the Deepwood, [Link](https://elyvilon.bandcamp.com/album/drums-in-the-deepwood)
   * **Erang** - Within The Land Of My Imagination I Am The Only God, [Link](https://erang.bandcamp.com/album/within-the-land-of-my-imagination-i-am-the-only-god)
   * **Eric Buchholz** - Hero of Time, [Link](https://ericbuchholz.bandcamp.com/album/hero-of-time-music-from-the-legend-of-zelda-ocarina-of-time)
   * **Fief** - II, [Link](https://fief.bandcamp.com/album/ii)
